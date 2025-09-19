@@ -10,6 +10,7 @@ I enjoy coding, solving random problems, and sometimes just vibing with music or
 
 - 🎓 Currently a student at Universitas Gadjah Mada
 - 🌱 Always excited to try new things  
+- ✨ A strong interest in business and entrepreneurship
 
 ## 🎨 Hobbies & Fun Stuff
 - 🎮 Gaming & exploring new worlds  
@@ -19,7 +20,7 @@ I enjoy coding, solving random problems, and sometimes just vibing with music or
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="mailto:syifaranorellesolehuddin@mail.ugm.ac.id.com">
+  <a href="mailto:syifaranorellesolehuddin@mail.ugm.ac.id">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/syifaranorelle?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
