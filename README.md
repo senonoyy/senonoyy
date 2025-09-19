@@ -1,14 +1,14 @@
 <h1 align="center">✨ Welcome to My GitHub ✨</h1>
 
 <p align="center">
-  <img src="https://id.pinterest.com/pin/76983474876752175/.png" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/1200x/96/18/ca/9618ca9c81b8cfec6e095c9dc09a182d.jpg" alt="Banner" width="100%"/>
 </p>
 
 ## 🌟 About Me
-Hello! I'm Syifara Norelle, just a curious learner who loves exploring new stuff.  
+Hello! I'm Syifara Norelle, just curious learner who loves exploring new stuff.  
 I enjoy coding, solving random problems, and sometimes just vibing with music or games. 🎧🎮  
 
-- 🎓 A student at Universitas Gadjah Mada
+- 🎓 Currently a student at Universitas Gadjah Mada
 - ✨ Love mixing **tech + creativity**  
 - 🌱 Always excited to try new things  
 
@@ -16,3 +16,5 @@ I enjoy coding, solving random problems, and sometimes just vibing with music or
 - 🎮 Gaming & exploring new worlds  
 - 📖 Reading stories & mystery novels  
 - 🎶 Music makes everything better  
+
+<p align="right">~ Norelle</p>
